@@ -29,3 +29,6 @@ To open and explore this .pbix file, you need:
 
 Power BI Desktop (free version available from Microsoft's official website).
 Access to any external data sources or APIs, if the report relies on live connections.
+
+#output
+![Image](https://github.com/user-attachments/assets/fccef681-7bf8-4e13-8c32-3866121ede69)
